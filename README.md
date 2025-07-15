@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harirahul0117
-- 👀 I’m interested in ...Cyber Security
+- 👀 I’m interested in ...Cyber Security Roles
 - 🌱 I’m currently learning ...Cyber Security
-- 💞️ I’m looking to collaborate on ...projects 
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...harirahul987@gmail.com
 
 <!---
