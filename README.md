@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harirahul0117
+- 👋 Hi, I’m Hari Rahul
 - 👀 I’m interested in ...Cyber Security Roles
 - 🌱 I’m currently learning ...Cyber Security
 - 💞️ I’m looking to collaborate on ...projects
